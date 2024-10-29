@@ -1,0 +1,7 @@
+folderName project
+fileName report.doc
+fileName data.txt
+fileName image.img
+folderName assets
+fileName document.pdf
+fileName code.c

@@ -1,0 +1,6 @@
+script1.sh
+document1.txt
+notes:backup.doc
+image.jpg
+script2.sh
+data:text.csv

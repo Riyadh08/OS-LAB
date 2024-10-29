@@ -1,0 +1,5 @@
+ryad.sh
+tmm.txt
+kuet.c
+temp.csv
+tmm1.txt

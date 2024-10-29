@@ -1,0 +1,6 @@
+folderName Folder1
+folderName Folder2
+fileName file1.ext
+fileName file2.ext
+fileName file3.ext
+folderName Folder3
